@@ -1,4 +1,3 @@
-1-djb2.c
 #include "hash_tables.h"
 
 /**
