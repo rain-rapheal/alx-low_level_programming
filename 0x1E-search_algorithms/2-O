@@ -1,0 +1,2 @@
+The time complexity of a linear search in array of size n is O(n) in the worst case scenario. 	
+This means that as the size of the array increases, the time it takes to perform the linear search also increases linearly. In the worst case, the linear search algorithm may need to iterate through theentire array to find the target element, resulting in a time complexity proportional to the size of the array.
